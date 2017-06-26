@@ -1,0 +1,66 @@
+\select@language {french}
+\contentsline {chapter}{Introduction}{11}{section*.3}
+\contentsline {chapter}{\numberline {1}Contexte et probl\IeC {\'e}matique}{13}{chapter.1}
+\contentsline {section}{\numberline {1.1}Contexte\IeC {\nobreakspace }: L'essor des agents conversationnels}{13}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}L'intelligence artificielle}{13}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}L'agent conversationnel}{15}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.1.3}Cas d'utilisation}{15}{subsection.1.1.3}
+\contentsline {section}{\numberline {1.2}Probl\IeC {\'e}matique}{16}{section.1.2}
+\contentsline {chapter}{\numberline {2}Concept}{19}{chapter.2}
+\contentsline {section}{\numberline {2.1}Dialogue homme-machine}{19}{section.2.1}
+\contentsline {section}{\numberline {2.2}Natural Language processing}{20}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}But}{20}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Principes}{21}{subsection.2.2.2}
+\contentsline {section}{\numberline {2.3}Natural language understanding}{21}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Phonologie}{22}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Morphologie}{23}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Lexical}{23}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}Syntaxique}{23}{subsection.2.3.4}
+\contentsline {subsection}{\numberline {2.3.5}S\IeC {\'e}mantique}{24}{subsection.2.3.5}
+\contentsline {subsection}{\numberline {2.3.6}Discours}{24}{subsection.2.3.6}
+\contentsline {subsection}{\numberline {2.3.7}Pragmatique}{25}{subsection.2.3.7}
+\contentsline {subsection}{\numberline {2.3.8}Cognitive}{25}{subsection.2.3.8}
+\contentsline {subsection}{\numberline {2.3.9}Base de connaissance}{25}{subsection.2.3.9}
+\contentsline {section}{\numberline {2.4}Natural language Generation}{25}{section.2.4}
+\contentsline {section}{\numberline {2.5}Dialogue chatbot}{26}{section.2.5}
+\contentsline {chapter}{\numberline {3}Etat de l'art}{29}{chapter.3}
+\contentsline {section}{\numberline {3.1}Etudes et exp\IeC {\'e}rimentation sur le TAL via NLTK}{29}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}TAL}{29}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}NLTK}{30}{subsection.3.1.2}
+\contentsline {subsubsection}{Segmentation}{30}{section*.5}
+\contentsline {subsubsection}{Etiquetage}{30}{section*.6}
+\contentsline {subsubsection}{Analyse}{31}{section*.7}
+\contentsline {section}{\numberline {3.2}Etudes et exp\IeC {\'e}rimentation sur l'AIML}{32}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Cat\IeC {\'e}gories}{32}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}R\IeC {\'e}cursivit\IeC {\'e}}{33}{subsection.3.2.2}
+\contentsline {subsubsection}{R\IeC {\'e}duction symbolique}{33}{section*.8}
+\contentsline {subsubsection}{Diviser pour conqu\IeC {\'e}rir}{34}{section*.9}
+\contentsline {subsubsection}{Synonyme}{35}{section*.10}
+\contentsline {section}{\numberline {3.3}Etudes et exp\IeC {\'e}rimentation sur les intents}{36}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Exemple d\IeC {\textquoteright }intent}{36}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Mod\IeC {\`e}le}{37}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Utilisation du mod\IeC {\`e}le}{37}{subsection.3.3.3}
+\contentsline {subsubsection}{Apprendre}{38}{section*.11}
+\contentsline {subsubsection}{Construire}{39}{section*.12}
+\contentsline {subsubsection}{Ex\IeC {\'e}cuter}{40}{section*.13}
+\contentsline {subsubsection}{Entra\IeC {\^\i }ner}{40}{section*.14}
+\contentsline {section}{\numberline {3.4}Evaluations}{40}{section.3.4}
+\contentsline {section}{\numberline {3.5}Etat de l\IeC {\textquoteright }art des solutions}{41}{section.3.5}
+\contentsline {chapter}{\numberline {4}Impl\IeC {\'e}mentation d\IeC {\textquoteright }un agent conversationnel}{43}{chapter.4}
+\contentsline {section}{\numberline {4.1}M\IeC {\'e}thodologie}{43}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Microsoft bot framework}{43}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}LUIS}{43}{subsection.4.1.2}
+\contentsline {section}{\numberline {4.2}Cas concret : incident dans CRM}{47}{section.4.2}
+\contentsline {section}{\numberline {4.3}D\IeC {\'e}veloppement}{48}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Architecture}{48}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Param\IeC {\'e}trage}{50}{subsection.4.3.2}
+\contentsline {section}{\numberline {4.4}R\IeC {\'e}sultat}{51}{section.4.4}
+\contentsline {section}{\numberline {4.5}Discussion}{53}{section.4.5}
+\contentsline {section}{\numberline {4.6}Limite de la solution}{54}{section.4.6}
+\contentsline {chapter}{\numberline {5}Bilan}{55}{chapter.5}
+\contentsline {section}{\numberline {5.1}Conclusion}{55}{section.5.1}
+\contentsline {section}{\numberline {5.2}Evolution possibles}{55}{section.5.2}
+\contentsline {chapter}{Bibliographie}{57}{chapter*.15}
+\contentsline {chapter}{Table des figures}{59}{chapter*.16}
+\contentsline {chapter}{\numberline {A}Code traitement des intents}{61}{appendix.A}
+\contentsline {chapter}{\numberline {B}Dialogue avec le chatbot}{63}{appendix.B}
